@@ -56,7 +56,7 @@ The analysis will help management:
 **Source:** [India Q-Commerce Orders Dataset (2015–2025)](https://www.kaggle.com/datasets/shubhampatil75/india-q-commerce-orders-dataset-2015-2025)
 
 - **Year Used Initially:** 2015
-- **Number of Columns:** 34
+- **Number of Columns:** 27
 - **Data Note:** The dataset was synthetically generated and may not represent actual production data from any Quick Commerce company.
 
 ### Key Fields
