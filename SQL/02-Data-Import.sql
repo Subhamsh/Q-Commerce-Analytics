@@ -1,0 +1,24 @@
+-- Q-Commerce Analytics Project
+-- Data Import Documentation
+--
+-- The cleaned 2015 CSV was imported into public.orders
+-- using DBeaver's Data Transfer > CSV import wizard.
+--
+-- Source:
+-- qcommerce_2015_cleaned.csv
+--
+-- Target:
+-- public.orders
+--
+-- Records imported:
+-- 100,000
+--
+-- CSV configuration:
+-- Encoding: UTF-8
+-- Header row: Yes
+-- Date/time format: dd-MM-yyyy HH:mm
+--
+-- PostgreSQL target:
+-- Database: qcommerce_analytics
+-- Schema: public
+-- Table: orders
