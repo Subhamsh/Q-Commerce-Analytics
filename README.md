@@ -46,7 +46,7 @@ The analysis will help management:
 
 - **AOV (Average Order Value):** Total Revenue / Total Number of Orders
 - **Total Revenue:** Sum of final order amount
-- **Average Delivery Time (in minutes):** Total Delivery Time / Total Delivered Orders
+- **Average Delivery Time (in minutes):** Total Delivery Time / Total Orders
 - **Cancellation Rate:** Cancelled Orders / Total Orders
 - **Average Customer Rating:** Total Rating Score / Number of Rated Orders
 - **Discount Utilization Rate:** Orders with Discounts / Total Orders
