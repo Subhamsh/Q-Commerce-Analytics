@@ -39,7 +39,7 @@ The analysis will help management:
 
 1. Understand customer purchasing behavior.
 2. Optimize dark store performance.
-3. Increase Average Order Value (AOV).
+3. Identify opportunities to improve Average Order Value (AOV).
 4. Improve overall business performance.
 
 ## Key Metrics
