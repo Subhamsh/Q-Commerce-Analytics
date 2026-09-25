@@ -44,9 +44,9 @@ The analysis will help management:
 
 ## Key Metrics
 
-- **AOV (Average Order Value):** Total Revenue / Total Number of Orders
-- **Total Revenue:** Sum of final order amount
-- **Average Delivery Time (in minutes):** Total Delivery Time / Total Orders
+- **AOV (Average Order Value):** Total Revenue / Total Number of Delivered Orders
+- **Total Revenue:** Sum of final order amount for Delivered Orders
+- **Average Delivery Time (in minutes):** Average Delivery time for all orders
 - **Cancellation Rate:** Cancelled Orders / Total Orders
 - **Average Customer Rating:** Total Rating Score / Number of Rated Orders
 - **Discount Utilization Rate:** Orders with Discounts / Total Orders
