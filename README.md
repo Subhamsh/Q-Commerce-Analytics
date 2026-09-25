@@ -14,7 +14,7 @@ To remain profitable, companies must optimize Average Order Value (AOV), improve
 
 ## Business Problem
 
-The company wants to understand how customer purchasing behavior, delivery performance, discount strategies, and dark-store operations impact revenue and profitability.
+The company wants to understand how customer purchasing behavior, delivery performance, discount strategies, and dark-store operations affect overall business performance.
 
 Management needs answers to the following questions:
 
@@ -26,8 +26,8 @@ Management needs answers to the following questions:
 - How does customer spending vary across locations?
 - Which product categories contribute most to revenue?
 - How can Average Order Value (AOV) be improved?
-- Do discounts increase order value?
-- Which categories depend most on discounts?
+- How does AOV differ between discounted and non-discounted orders?
+- Which categories have the highest discount utilization?
 - Do repeat customers spend more than new customers?
 - Which customer segment contributes most revenue?
 
@@ -40,7 +40,7 @@ The analysis will help management:
 1. Understand customer purchasing behavior.
 2. Optimize dark store performance.
 3. Increase Average Order Value (AOV).
-4. Improve overall business profitability.
+4. Improve overall business performance.
 
 ## Key Metrics
 
